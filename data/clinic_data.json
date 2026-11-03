@@ -1,0 +1,310 @@
+{
+  "settings": {
+    "id": "clinic-main",
+    "name": "Nandita Dental Clinic",
+    "doctorName": "Dr. Prasannakumar Kadakol",
+    "doctorTitle": "Dentist & Prosthodontist",
+    "speciality": "Dentistry / Prosthodontics",
+    "address": "Hubli-Dharwad, Karnataka, India",
+    "city": "Hubli-Dharwad",
+    "state": "Karnataka",
+    "country": "India",
+    "googleMapsEmbedUrl": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d123089.47547141505!2d75.0592759!3d15.3647083!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3bb8d73b0606da09%3A0xb36315ef769741e1!2sHubballi%2C%20Karnataka!5e0!3m2!1sen!2sin!4v1700000000000!5m2!1sen!2sin",
+    "googleMapsLink": "https://maps.google.com/?q=Nandita+Dental+Clinic+Hubli+Dharwad+Karnataka",
+    "phone": "Pending clinic update",
+    "phoneConfirmed": false,
+    "whatsapp": "Pending clinic update",
+    "whatsappConfirmed": false,
+    "email": "Pending clinic update",
+    "emailConfirmed": false,
+    "slotDurationMinutes": 30,
+    "consultationFee": "Pending clinic confirmation",
+    "emergencyNote": "For urgent dental pain or emergencies during clinic hours, please visit our clinic in Hubli-Dharwad directly.",
+    "aboutText": "Nandita Dental Clinic provides dedicated, compassionate oral healthcare in Hubli-Dharwad under the expert clinical guidance of Dr. Prasannakumar Kadakol. We blend modern clinical precision, prosthodontic mastery, and an unhurried, gentle environment designed to make every dental visit stress-free.",
+    "missionText": "To preserve natural smiles through conservative dentistry, superior prosthodontic care, and uncompromised sterilisation standards."
+  },
+  "doctors": [
+    {
+      "id": "doc-1",
+      "name": "Dr. Prasannakumar Kadakol",
+      "role": "Chief Dental Surgeon & Prosthodontist",
+      "speciality": "Prosthodontics & General Dentistry",
+      "bio": "Specialist in Dentistry and Prosthodontics providing comprehensive care including restorative crown & bridge work, painless root canal procedures, and aesthetic smile maintenance at Nandita Dental Clinic.",
+      "photoUrl": "/src/assets/images/doctor_profile_placeholder_1793713705980.jpg",
+      "active": true
+    }
+  ],
+  "treatments": [
+    {
+      "id": "trt-1",
+      "title": "Root Canal Treatment",
+      "shortDesc": "Painless endodontic therapy to eliminate deep infection and save your natural tooth.",
+      "fullDesc": "Modern rotary endodontic treatment designed to thoroughly cleanse infected pulp tissue, disinfect the canal spaces, and hermetically seal the tooth structure, relieving pain and preventing extraction.",
+      "details": [
+        "Painless procedure with advanced local anesthesia",
+        "High-precision rotary canal preparation",
+        "Preserves original tooth roots and bite alignment",
+        "Protective ceramic or composite crown placement"
+      ],
+      "durationMinutes": 45,
+      "price": "Consultation required",
+      "priceConfirmed": false,
+      "imageUrl": "/src/assets/images/treatment_root_canal_1793713703877.jpg",
+      "isPopular": true,
+      "active": true
+    },
+    {
+      "id": "trt-2",
+      "title": "Teeth Cleaning",
+      "shortDesc": "Ultrasonic scaling and polishing to remove stubborn calculus and protect gum health.",
+      "fullDesc": "Routine preventative dental prophylaxis that removes supra-gingival and sub-gingival plaque, tartar deposits, and external stains. Essential for preventing periodontal disease and bad breath.",
+      "details": [
+        "Gentle ultrasonic scaler technology",
+        "Targeted stain removal and air polishing",
+        "Thorough gum and periodontal assessment",
+        "Personalised oral hygiene guidance"
+      ],
+      "durationMinutes": 30,
+      "price": "Consultation required",
+      "priceConfirmed": false,
+      "imageUrl": "/src/assets/images/treatment_cleaning_1793713703988.jpg",
+      "isPopular": true,
+      "active": true
+    },
+    {
+      "id": "trt-3",
+      "title": "Teeth Whitening",
+      "shortDesc": "Safe, in-office cosmetic whitening to brighten your smile several shades naturally.",
+      "fullDesc": "Clinical enamel-safe whitening designed to eliminate stubborn deep discoloration caused by tea, coffee, aging, or fluorosis, restoring a bright, youthful, and luminous smile.",
+      "details": [
+        "Enamel-safe professional brightening formula",
+        "Visible shade improvement in single session",
+        "Protective barrier applied to gums and soft tissues",
+        "Long-lasting natural looking luminescence"
+      ],
+      "durationMinutes": 45,
+      "price": "Consultation required",
+      "priceConfirmed": false,
+      "imageUrl": "/src/assets/images/treatment_whitening_1793713705532.jpg",
+      "isPopular": false,
+      "active": true
+    },
+    {
+      "id": "trt-4",
+      "title": "Dental Fillings",
+      "shortDesc": "Aesthetic, tooth-colored composite restorations that restore chipped or decayed teeth.",
+      "fullDesc": "Biocompatible composite resin fillings that bond seamlessly to natural tooth structure, repairing dental caries, chips, and minor fractures while matching the exact shade of adjacent enamel.",
+      "details": [
+        "Natural tooth-matching composite shades",
+        "Conservative preparation preserving healthy enamel",
+        "Durable, wear-resistant light-cured material",
+        "Instant bite checking and smooth contouring"
+      ],
+      "durationMinutes": 30,
+      "price": "Consultation required",
+      "priceConfirmed": false,
+      "imageUrl": "/src/assets/images/treatment_fillings_1793713725404.jpg",
+      "isPopular": true,
+      "active": true
+    },
+    {
+      "id": "trt-5",
+      "title": "Prosthodontic Care",
+      "shortDesc": "Expert restoration and replacement of missing teeth using crowns, bridges, and prosthetics.",
+      "fullDesc": "Specialized prosthodontic therapy delivered by Dr. Prasannakumar Kadakol, focused on restoring lost masticatory function, bite equilibrium, and facial aesthetics through precision-engineered prostheses.",
+      "details": [
+        "Zirconia and porcelain-fused crowns",
+        "Fixed dental bridges for missing gaps",
+        "Complete and partial removable dentures",
+        "Bite equilibration and TMJ comfort assessment"
+      ],
+      "durationMinutes": 60,
+      "price": "Consultation required",
+      "priceConfirmed": false,
+      "imageUrl": "/src/assets/images/treatment_prosthodontics_1793713726493.jpg",
+      "isPopular": true,
+      "active": true
+    }
+  ],
+  "appointments": [
+    {
+      "id": "apt-1793714443540-g1ev9",
+      "bookingReference": "NDC-2026-7256",
+      "patientName": "Dhanya Angadi",
+      "patientPhone": "3785483734",
+      "patientEmail": "dhanyaangadi126@gmail.com",
+      "patientAge": 20,
+      "treatmentId": "trt-2",
+      "treatmentTitle": "Teeth Cleaning",
+      "doctorId": "doc-1",
+      "doctorName": "Dr. Prasannakumar Kadakol",
+      "appointmentDate": "2026-11-06",
+      "appointmentTime": "10:00 AM",
+      "durationMinutes": 30,
+      "status": "pending",
+      "createdAt": "2026-11-03T14:00:43.540Z",
+      "updatedAt": "2026-11-03T14:00:43.540Z"
+    },
+    {
+      "id": "apt-1793715817690-ruznp",
+      "bookingReference": "NDC-2026-6041",
+      "patientName": "Test Patient",
+      "patientPhone": "9845012345",
+      "treatmentId": "trt-1",
+      "treatmentTitle": "Root Canal Treatment",
+      "doctorId": "doc-1",
+      "doctorName": "Dr. Prasannakumar Kadakol",
+      "appointmentDate": "2026-11-10",
+      "appointmentTime": "11:00 AM",
+      "durationMinutes": 45,
+      "status": "pending",
+      "createdAt": "2026-11-03T14:23:37.690Z",
+      "updatedAt": "2026-11-03T14:23:37.690Z"
+    }
+  ],
+  "workingHours": [
+    {
+      "dayOfWeek": 0,
+      "dayName": "Sunday",
+      "isOpen": false,
+      "shifts": []
+    },
+    {
+      "dayOfWeek": 1,
+      "dayName": "Monday",
+      "isOpen": true,
+      "shifts": [
+        {
+          "start": "10:00",
+          "end": "13:30"
+        },
+        {
+          "start": "17:00",
+          "end": "20:30"
+        }
+      ]
+    },
+    {
+      "dayOfWeek": 2,
+      "dayName": "Tuesday",
+      "isOpen": true,
+      "shifts": [
+        {
+          "start": "10:00",
+          "end": "13:30"
+        },
+        {
+          "start": "17:00",
+          "end": "20:30"
+        }
+      ]
+    },
+    {
+      "dayOfWeek": 3,
+      "dayName": "Wednesday",
+      "isOpen": true,
+      "shifts": [
+        {
+          "start": "10:00",
+          "end": "13:30"
+        },
+        {
+          "start": "17:00",
+          "end": "20:30"
+        }
+      ]
+    },
+    {
+      "dayOfWeek": 4,
+      "dayName": "Thursday",
+      "isOpen": true,
+      "shifts": [
+        {
+          "start": "10:00",
+          "end": "13:30"
+        },
+        {
+          "start": "17:00",
+          "end": "20:30"
+        }
+      ]
+    },
+    {
+      "dayOfWeek": 5,
+      "dayName": "Friday",
+      "isOpen": true,
+      "shifts": [
+        {
+          "start": "10:00",
+          "end": "13:30"
+        },
+        {
+          "start": "17:00",
+          "end": "20:30"
+        }
+      ]
+    },
+    {
+      "dayOfWeek": 6,
+      "dayName": "Saturday",
+      "isOpen": true,
+      "shifts": [
+        {
+          "start": "10:00",
+          "end": "13:30"
+        },
+        {
+          "start": "17:00",
+          "end": "20:30"
+        }
+      ]
+    }
+  ],
+  "blockedDates": [],
+  "notifications": [
+    {
+      "id": "notif-1793714443540-1",
+      "appointmentId": "apt-1793714443540-g1ev9",
+      "bookingReference": "NDC-2026-7256",
+      "type": "confirmation",
+      "channel": "WhatsApp",
+      "recipient": "3785483734",
+      "status": "Ready",
+      "message": "Namaste Dhanya Angadi, your appointment booking (NDC-2026-7256) for Teeth Cleaning on 2026-11-06 at 10:00 AM has been received by Nandita Dental Clinic, Hubli-Dharwad.",
+      "timestamp": "2026-11-03T14:00:43.540Z"
+    },
+    {
+      "id": "notif-1793714443540-2",
+      "appointmentId": "apt-1793714443540-g1ev9",
+      "bookingReference": "NDC-2026-7256",
+      "type": "clinic_alert",
+      "channel": "SMS",
+      "recipient": "Pending clinic update",
+      "status": "Ready",
+      "message": "New Booking: Dhanya Angadi (3785483734) for Teeth Cleaning with Dr. Prasannakumar Kadakol on 2026-11-06 at 10:00 AM.",
+      "timestamp": "2026-11-03T14:00:43.540Z"
+    },
+    {
+      "id": "notif-1793715817690-1",
+      "appointmentId": "apt-1793715817690-ruznp",
+      "bookingReference": "NDC-2026-6041",
+      "type": "confirmation",
+      "channel": "WhatsApp",
+      "recipient": "9845012345",
+      "status": "Ready",
+      "message": "Namaste Test Patient, your appointment booking (NDC-2026-6041) for Root Canal Treatment on 2026-11-10 at 11:00 AM has been received by Nandita Dental Clinic, Hubli-Dharwad.",
+      "timestamp": "2026-11-03T14:23:37.690Z"
+    },
+    {
+      "id": "notif-1793715817690-2",
+      "appointmentId": "apt-1793715817690-ruznp",
+      "bookingReference": "NDC-2026-6041",
+      "type": "clinic_alert",
+      "channel": "SMS",
+      "recipient": "Pending clinic update",
+      "status": "Ready",
+      "message": "New Booking: Test Patient (9845012345) for Root Canal Treatment with Dr. Prasannakumar Kadakol on 2026-11-10 at 11:00 AM.",
+      "timestamp": "2026-11-03T14:23:37.690Z"
+    }
+  ]
+}

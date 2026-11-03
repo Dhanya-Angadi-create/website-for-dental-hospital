@@ -1,0 +1,6 @@
+{
+  "name": "Nandita Dental Clinic",
+  "description": "Premium dental clinic appointment booking website for Nandita Dental Clinic in Hubli-Dharwad, Karnataka. Led by Dr. Prasannakumar Kadakol specializing in prosthodontics and comprehensive oral care.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

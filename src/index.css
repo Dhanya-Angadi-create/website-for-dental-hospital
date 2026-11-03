@@ -1,0 +1,19 @@
+@import "tailwindcss";
+
+@layer base {
+  html {
+    font-family: 'Plus Jakarta Sans', system-ui, -apple-system, sans-serif;
+    scroll-behavior: smooth;
+  }
+
+  h1, h2, h3, .font-display {
+    font-family: 'Outfit', 'Plus Jakarta Sans', sans-serif;
+  }
+}
+
+:root {
+  --color-brand-teal: #123B46;
+  --color-brand-mint: #D6ECE8;
+  --color-brand-gold: #C5A46D;
+  --color-brand-bg: #F5F8F7;
+}
